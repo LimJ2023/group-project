@@ -32,7 +32,7 @@ public class IfExample05 {
 		}
 		
 		System.out.println("입장료는 : " + charge + "원 입니다.");
-		
+		//수정사항1번째
 	}
 
 }
